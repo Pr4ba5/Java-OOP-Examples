@@ -54,7 +54,7 @@ public class main {
                     System.out.println("Invalid item number.");
                 }
             }
-        }while(!choice.equalsIgnoreCase("done"));
+        }while(!choice.equalsIgnoreCase("done")); 
 
         //display order summary
         System.out.println("\n -----order summary------");
