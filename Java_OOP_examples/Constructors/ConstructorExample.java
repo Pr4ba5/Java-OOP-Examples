@@ -1,5 +1,12 @@
 package Java_OOP_examples.Constructors;
+
+
+
+//Before understing code directly, i want you to have proper look to readme. of this topic!!
+
+
 public class ConstructorExample{
+
 
     public static class student{//creating a new class
 
