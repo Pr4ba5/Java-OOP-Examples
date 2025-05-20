@@ -50,7 +50,7 @@ public class PolymorphismExample{
         //output will be "Bhow Bhow" since we've already override the inherited method
 
         Cat cat = new Cat();
-        cat.makesSound();
-        cat.makesSound(3);
+        cat.makesSound();//the default method will run
+        cat.makesSound(3);//but when we give value, the method that takes value will run
     }
 }
