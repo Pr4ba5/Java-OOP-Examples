@@ -1,4 +1,4 @@
-# 🛡️ Encapsulation in Java - Explained with Humor and Code
+# 🛡️ Encapsulation in Java 
 
 Welcome, curious Java explorer! 🧭  
 This repo is your quick, funny, and beginner-friendly tour through one of the core concepts of Object-Oriented Programming: **Encapsulation**.
